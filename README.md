@@ -9,3 +9,4 @@
 * dev/login 브랜치에서 버그를 수정함
 
 ### 파일 수정 테스트
+* amend 또 amend
