@@ -12,3 +12,4 @@
 * amend 또 amend
 * Head 이동
 * 여기는 feat branch 입니다
+* feat 기능 추가
