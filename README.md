@@ -10,11 +10,4 @@
 
 ### 파일 수정 테스트
 * amend 또 amend
-<<<<<<< HEAD
-* 여기는 master branch 입니다
-* 여기는 hothix branch 입니다
-=======
-* Head 이동
-* 여기는 feat branch 입니다
-* feat 기능 추가
->>>>>>> feat/new-branch
+* merge 시 충돌하여 삭제 후 새로 작성
